@@ -1,0 +1,28 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: silver;
+}
+
+#firstPic {
+    max-width: 30%;
+}
+
+#secondPic {
+    max-width: 30%;
+}
+
+#thirdPic {
+    max-width: 30%;
+}
+
+.funFact {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+}
